@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Hunter Daley</Authors>
     <Company>Software Engineering Institute</Company>
-    <Copyright>Copyright 2020 Carnegie Mellon University. MIT (SEI License.</Copyright>
+    <Copyright>Copyright 2020 Carnegie Mellon University.</Copyright>
     <PackageId>Foundry.Stack.Data</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/cmu-sei/Foundry.Stack</RepositoryUrl>
